@@ -1,5 +1,5 @@
-<h1 align="center">Hello! My name is Lissa</h1>
-<h3 align="center">I'm a begginer computer science student, currently looking foward to expand my k</h3>
+### Hello! My name is Lissa! ₍ᐢ. .ᐢ₎
+#### I'm a begginer computer science student, currently looking foward to expand my knowledge.
 
 - 🔭 I’m currently a student at **Unespar.**
 
