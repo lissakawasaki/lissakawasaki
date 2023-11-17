@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a student at **Unespar.**
 
-- 📫 You can reach me by contacting: **lissakawasaki@outlook.com**
+- 📫 You can reach out by contacting: **lissakawasaki@outlook.com**
 
 - ⚡ I enjoy... **Music, books and spending time with my cats!**
 
