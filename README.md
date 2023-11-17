@@ -1,5 +1,6 @@
 ### Hello! My name is Lissa! ₍ᐢ. .ᐢ₎
-#### I'm a begginer computer science student, looking foward to expand my knowledge and become a professional.
+#### I'm a begginer computer science student, looking foward to expand my knowledge and become a professional. ![60d43ffc](https://github.com/lissakawasaki/lissakawasaki/assets/85110209/3cf4054f-01c2-40c1-a6b4-c237228b9440)
+
 
 - 🔭 I’m currently a student at **Unespar.**
 
