@@ -14,5 +14,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="ghostlike1d" height="30" width="100" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" width="100" /></a>
 
