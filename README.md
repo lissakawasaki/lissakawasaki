@@ -14,5 +14,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a target="blank"><img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" width="55" /></a> <a target="blank"><img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" width="100" /></a> <a target="blank"><img align="center" src=" 	https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" height="30" width="100" /></a> 
-
+<a target="blank"><img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" width="55" /></a> <a target="blank"><img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" width="100" /></a> <a target="blank"><img align="center" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" height="30" width="100" /></a> 
+</p>
