@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently a student at **Unespar.**
 
-- 🌱 I’m currently learning **programming logic.**
-
-- 📫 How to reach me **lissakawsaki@outlook.com**
+- 📫 You can reach me by contacting: **lissakawsaki@outlook.com**
 
 - ⚡ I enjoy... **Music, books and spending time with my cats!**
 
