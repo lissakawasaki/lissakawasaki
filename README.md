@@ -25,5 +25,3 @@
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lissakawa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=lissakawa&redirect=true) ![fce7d473](https://github.com/lissakawasaki/lissakawasaki/assets/85110209/6b8e9080-b6bd-4cf4-a838-f33ec97e288b)
 
-
-![52f8b0a6](https://github.com/lissakawasaki/lissakawasaki/assets/85110209/134cea3b-51f6-4347-95bd-e1432d9a0358)
