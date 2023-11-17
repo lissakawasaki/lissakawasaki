@@ -17,3 +17,5 @@
 <p align="left">
 <a target="blank"><img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" width="55" /></a> <a target="blank"><img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"  height="30" width="90" /></a>  <a target="blank"><img align="center" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" height="30" width="90" /></a>
 </p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lissakawa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=lissakawa&redirect=true)
