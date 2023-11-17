@@ -23,5 +23,6 @@
 </p>
 
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lissakawa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=lissakawa&redirect=true) ![fce7d473](https://github.com/lissakawasaki/lissakawasaki/assets/85110209/6b8e9080-b6bd-4cf4-a838-f33ec97e288b)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lissakawa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=lissakawa&redirect=true) ![21ebcb13](https://github.com/lissakawasaki/lissakawasaki/assets/85110209/ce1974bc-4826-4a7e-837e-cc0173ad4743)
+
 
