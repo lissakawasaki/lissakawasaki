@@ -1,6 +1,7 @@
 
+![Uploading a9d787da.gif…]()
 
-![3f95c264](https://github.com/lissakawasaki/lissakawasaki/assets/85110209/6df23bc0-bb3e-4751-84a5-733e2ec110e6)
+
 ### Hello! My name is Lissa! ₍ᐢ. .ᐢ₎
 #### I'm a begginer computer science student, looking foward to expand my knowledge and become a professional. 
 
