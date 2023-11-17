@@ -20,3 +20,5 @@
 
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lissakawa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=lissakawa&redirect=true)
+
+![52f8b0a6](https://github.com/lissakawasaki/lissakawasaki/assets/85110209/134cea3b-51f6-4347-95bd-e1432d9a0358)
