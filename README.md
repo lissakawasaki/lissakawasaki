@@ -1,6 +1,5 @@
 
-![Uploading a9d787da.gif…]()
-
+![a9d787da](https://github.com/lissakawasaki/lissakawasaki/assets/85110209/48a31d35-43b4-4d27-b804-b2b53ce257a0)
 
 ### Hello! My name is Lissa! ₍ᐢ. .ᐢ₎
 #### I'm a begginer computer science student, looking foward to expand my knowledge and become a professional. 
