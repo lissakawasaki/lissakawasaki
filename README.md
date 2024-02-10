@@ -1,7 +1,7 @@
 
 
 
-### Hello! My name is Lissa! ₍ᐢ. .ᐢ₎
+### Hello! My name is Lissa! 
 #### I'm a begginer computer science student, looking foward to expand my knowledge and become a professional. 
 
 
@@ -9,7 +9,7 @@
 
 - 📫 You can reach out by contacting: **lissakawasaki@outlook.com**
 
-- ⚡ I enjoy... **Music, books and spending time with my cats!**
+- ⚡ I enjoy... **Music, concerts and books!**
 
 <h3 align="left">Know me better by connecting through: </h3>
 <p align="left">
@@ -23,6 +23,3 @@
 </p>
 
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lissakawa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=lissakawa&redirect=true) ![21ebcb13](https://github.com/lissakawasaki/lissakawasaki/assets/85110209/ce1974bc-4826-4a7e-837e-cc0173ad4743)
-
-
