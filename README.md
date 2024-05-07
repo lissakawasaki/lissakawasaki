@@ -9,7 +9,7 @@
 
 - 📫 You can reach out by contacting: **lissakawasaki@outlook.com**
 
-- ⚡ I enjoy... **Music, concerts and books!**
+- ⚡ I enjoy... **Music, concerts, videogames and morikei!**
 
 <h3 align="left">Know me better by connecting through: </h3>
 <p align="left">
