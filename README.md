@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a target="blank"><img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" width="55" /></a> <a target="blank"><img align="center" src="[https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white](https://aleen42.github.io/badges/src/pinterest.svg)"  height="30" width="90" /></a>  
+<a target="blank"><img align="center" src="![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)" height="30" width="55" /></a> <a target="blank"><img align="center" src="![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)"  height="30" width="90" /></a>  
 </p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lissakawa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=b9469f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
