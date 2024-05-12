@@ -15,7 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
-Python 	![Python](https://readmebadge.vercel.app/badges/python.svg)
+![Python](https://readmebadge.vercel.app/badges/python.svg)
 </p>
 
 
