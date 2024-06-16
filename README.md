@@ -2,7 +2,7 @@
 
 
 ### Hello! My name is Lissa! 
-#### I'm a begginer computer science student, looking foward to expand my knowledge and become a professional. 
+#### I'm a begginer computer science student, looking foward to expand my knowledge and learn something new.
 
 
 - 🔭 I’m currently a student at **Unespar.**
