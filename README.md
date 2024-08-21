@@ -8,6 +8,8 @@
 - 🔭 I’m currently a student at **Unespar.**
 
 - 📫 You can reach out by contacting: **lissakawasaki@outlook.com**
+  
+- 🎯 I'm interested in... **Cloud computing, database and development!**
 
 - ⚡ I enjoy... **Music, concerts, videogames, cute stuff and morikei!**
 
